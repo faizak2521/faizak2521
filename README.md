@@ -1,6 +1,6 @@
 About Me
 
-Hello, I’m Faiza Khan, currently a college student, a passionate learner, and an aspiring coder eager to make a mark in the world of technology.
+Hello, I’m Faiza Khan and currently attending college. I'm passionate about what I learn and do; an aspiring coder eager to make a mark in the world of technology.
 
 Skills
 - Proficient: Python
