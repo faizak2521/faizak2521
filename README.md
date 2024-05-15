@@ -8,7 +8,7 @@ Skills
 - Tools: Github, CodeAcademy, LeetCode
 
 Future Goals
-- I want to get my Masters Degree in Computer Science and a minor in Aviation Flight Technology.
+- I want to get my Masters Degree in Computer Science 
 - I'd like to dive into software development.
 - Contribute to open-source projects to broaden my expertise and give back to the community.
 
