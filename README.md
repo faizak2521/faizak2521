@@ -3,8 +3,8 @@ About Me
 Hello, I’m Faiza Khan and currently attending college. I'm passionate about what I learn and do; an aspiring coder eager to make a mark in the world of technology.
 
 Skills
-- Proficient: Python
-- Learning: C, C++, HTML
+- Proficient: Python, C
+- Learning: C++, HTML
 - Tools: Github, CodeAcademy, LeetCode
 
 Future Goals
