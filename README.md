@@ -1,17 +1,38 @@
-About Me
+# 💻 Hi, I’m **Faiza**  
 
-Hello, I’m Faiza Khan, currently attending Lewis University, majoring in Computer Science with a strong concentration in SWE. I'm passionate about what I learn and do; an aspiring coder eager to make a mark in the world of technology.
+🎓 *Computer Science major @ Lewis University*  
+💡 *Concentration: Software Engineering*  
+🚀 *Future Software Engineer | Builder | Lifelong Learner*
 
-Skills
-- Proficient: Python, C/C++, HTML, CSS, JS, Node
-- Tools: GitHub, VS Code, LeetCode
+---
 
-Future Goals
-- I want to get my Master's Degree in Computer Science 
-- Become a Software Engineer who is involved in continuous growth and learning.
-- Contribute to open-source projects to broaden my expertise and give back to the community.
+## 👩🏽‍💻 About Me  
+I’m a passionate coder who loves creating smart, purposeful solutions.  
+Curiosity drives me, I’m always learning, experimenting, and pushing my limits in tech.  
+Great software blends **logic, empathy, and design** and I strive to build with all three.  
+
+---
+
+## ⚙️ Skills  
+
+**Languages:** Python • C / C++ • HTML • CSS • JavaScript • Node.js  
+**Tools:** GitHub • VS Code • LeetCode  
+
+---
+
+## 🎯 Future Goals  
+
+- Pursue a **Master’s in Computer Science**  
+- Grow into a **Software Engineer** focused on continuous learning and innovation  
+- **Contribute** to open-source projects and build meaningful tech for real people  
+
+---
+
+> 💬 *"Dreams don’t work unless you do — but when you do, they start to look a lot like plans."*  
+
+---
 
 <!---
-faizak2521/faizak2521 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+faizak2521/faizak2521 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+You can click the Preview link to take a look at your changes.  
 --->
