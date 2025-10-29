@@ -1,15 +1,14 @@
 About Me
 
-Hello, I’m Faiza Khan and currently attending college. I'm passionate about what I learn and do; an aspiring coder eager to make a mark in the world of technology.
+Hello, I’m Faiza Khan, currently attending Lewis University, majoring in Computer Science with a strong concentration in SWE. I'm passionate about what I learn and do; an aspiring coder eager to make a mark in the world of technology.
 
 Skills
-- Proficient: Python, C
-- Learning: C++, HTML
-- Tools: Github, CodeAcademy, LeetCode
+- Proficient: Python, C/C++, HTML, CSS, JS, Node
+- Tools: GitHub, VS Code, LeetCode
 
 Future Goals
-- I want to get my Masters Degree in Computer Science 
-- I'd like to dive into software development.
+- I want to get my Master's Degree in Computer Science 
+- Become a Software Engineer who is involved in continuous growth and learning.
 - Contribute to open-source projects to broaden my expertise and give back to the community.
 
 <!---
